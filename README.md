@@ -13,7 +13,7 @@ SAMPLE OUTPUT:
 # ./graphics.pl
 graphics.pl - v1.0.0
 
-Usage: ./graphics.pl get | fan | gpuClock | memClock | pcie  [val]
+Usage: ./graphics.pl get|fan|gpuClock|memClock|pcie  [val]
 
 # ./graphics.pl get
 gpu_count: 2
